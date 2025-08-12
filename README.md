@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  SaaS Boilerplate
+  Algrogeria
   <br>
 </h1>
 
-<h4 align="center">A modern, type-safe SaaS boilerplate built with Next.js 15, tRPC, and Prisma.</h4>
+<h4 align="center">A modern, Agrotech page built with Next.js 15, tRPC, and Prisma.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
